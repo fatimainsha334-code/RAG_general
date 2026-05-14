@@ -10,6 +10,7 @@ selenium
 beautifulsoup4
 nest_asyncio
 transformers
+tenacity
 sentence-transformers
 huggingface-hub
 tokenizers
